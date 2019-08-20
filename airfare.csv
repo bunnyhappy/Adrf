@@ -6591,3 +6591,420 @@
 4,2018,417,FKL,Venango Regional,Franklin/Oil City,PA,519,519,3
 4,2018,417,SSB,Christiansted Harbor Seaplane Base,Christiansted,VI,416,416,3
 4,2018,420,EWB,New Bedford Regional,New Bedford/Fall River,MA,482,482,2
+1,2019,1,LAX,Los Angeles International,Los Angeles,CA,336,336,1388910
+1,2019,2,ORD,Chicago O'Hare International,Chicago-O'Hare,IL,358,358,1071711
+1,2019,3,DEN,Denver International,Denver,CO,308,308,985863
+1,2019,4,ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,380,380,952432
+1,2019,5,SFO,San Francisco International,San Francisco,CA,380,380,929051
+1,2019,6,BOS,Logan International,Boston,MA,330,330,894216
+1,2019,7,SEA,Seattle/Tacoma International,Seattle,WA,327,327,879527
+1,2019,8,EWR,Newark Liberty International,Newark,NJ,404,404,808120
+1,2019,9,DFW,Dallas/Fort Worth International,Dallas-DFW,TX,407,407,784429
+1,2019,10,JFK,John F. Kennedy International,New York-JFK,NY,385,385,743187
+1,2019,11,LGA,LaGuardia,New York-La Guardia,NY,328,328,700202
+1,2019,12,PHX,Phoenix Sky Harbor International,Phoenix,AZ,341,341,679945
+1,2019,13,MCO,Orlando International,Orlando,FL,261,261,674669
+1,2019,14,MSP,Minneapolis-St Paul International,Minneapolis,MN,397,397,616347
+1,2019,15,LAS,McCarran International,Las Vegas,NV,248,248,601666
+1,2019,16,PHL,Philadelphia International,Philadelphia,PA,384,384,583500
+1,2019,17,SAN,San Diego International,San Diego,CA,315,315,553382
+1,2019,18,DTW,Detroit Metro Wayne County,Detroit,MI,393,393,543732
+1,2019,19,BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,320,320,532980
+1,2019,20,FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,265,265,516077
+1,2019,21,DCA,Ronald Reagan Washington National,Washington-Reagan National,DC,363,363,506694
+1,2019,22,IAH,George Bush Intercontinental/Houston,Houston-Intercontinental,TX,423,423,472746
+1,2019,23,PDX,Portland International,Portland,OR,331,331,470724
+1,2019,24,TPA,Tampa International,Tampa,FL,311,311,435806
+1,2019,25,AUS,Austin - Bergstrom International,Austin,TX,346,346,381015
+1,2019,26,SLC,Salt Lake City International,Salt Lake City,UT,393,393,380246
+1,2019,27,SJC,Norman Y. Mineta San Jose International,San Jose,CA,279,279,358703
+1,2019,28,MDW,Chicago Midway International,Chicago-Midway,IL,313,313,356935
+1,2019,29,CLT,Charlotte Douglas International,Charlotte,NC,434,434,356698
+1,2019,30,MIA,Miami International,Miami,FL,340,340,345375
+1,2019,31,OAK,Metropolitan Oakland International,Oakland,CA,277,277,336752
+1,2019,32,RDU,Raleigh-Durham International,Raleigh/Durham,NC,342,342,334420
+1,2019,33,SMF,Sacramento International,Sacramento,CA,317,317,329500
+1,2019,34,BNA,Nashville International,Nashville,TN,336,336,319595
+1,2019,35,STL,St Louis Lambert International,St. Louis,MO,368,368,307654
+1,2019,36,MCI,Kansas City International,Kansas City,MO,362,362,301519
+1,2019,37,DAL,Dallas Love Field,Dallas-Love Field,TX,305,305,282675
+1,2019,38,IAD,Washington Dulles International,Washington-Dulles,DC,448,448,277028
+1,2019,39,HNL,Daniel K Inouye International,Honolulu,HI,349,349,269906
+1,2019,40,IND,Indianapolis International,Indianapolis,IN,364,364,263331
+1,2019,41,CLE,Cleveland-Hopkins International,Cleveland,OH,323,323,263015
+1,2019,42,MSY,Louis Armstrong New Orleans International,New Orleans,LA,303,303,259462
+1,2019,43,PIT,Pittsburgh International,Pittsburgh,PA,352,352,254538
+1,2019,44,SNA,John Wayne Airport-Orange County,Santa Ana,CA,362,362,253192
+1,2019,45,HOU,William P Hobby,Houston-Hobby,TX,332,332,239409
+1,2019,46,CVG,Cincinnati/Northern Kentucky International,Cincinnati,OH,342,342,238094
+1,2019,47,SAT,San Antonio International,San Antonio,TX,355,355,229728
+1,2019,48,CMH,John Glenn Columbus International,Columbus,OH,358,358,219596
+1,2019,49,MKE,General Mitchell International,Milwaukee,WI,351,351,203820
+1,2019,50,BDL,Bradley International,Hartford,CT,364,364,198802
+1,2019,51,SJU,Luis Munoz Marin International,San Juan,PR,287,287,187582
+1,2019,52,RSW,Southwest Florida International,Fort Myers,FL,299,299,164623
+1,2019,53,JAX,Jacksonville International,Jacksonville,FL,344,344,156100
+1,2019,54,BUR,Bob Hope,Burbank,CA,262,262,151436
+1,2019,55,BUF,Buffalo Niagara International,Buffalo,NY,308,308,147589
+1,2019,56,PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,344,344,147302
+1,2019,57,ONT,Ontario International,Ontario,CA,321,321,143288
+1,2019,58,OMA,Eppley Airfield,Omaha,NE,357,357,139272
+1,2019,59,ABQ,Albuquerque International Sunport,Albuquerque,NM,352,352,129845
+1,2019,60,PVD,Theodore Francis Green State,Providence,RI,332,332,120739
+1,2019,61,MEM,Memphis International,Memphis,TN,386,386,118435
+1,2019,62,RIC,Richmond International,Richmond,VA,384,384,117383
+1,2019,63,OKC,Will Rogers World,Oklahoma City,OK,382,382,113513
+1,2019,64,BOI,Boise Air Terminal,Boise,ID,346,346,105941
+1,2019,65,LGB,Long Beach Airport,Long Beach,CA,216,216,104976
+1,2019,66,GEG,Spokane International,Spokane,WA,352,352,102502
+1,2019,67,ORF,Norfolk International,Norfolk,VA,396,396,101103
+1,2019,68,ANC,Ted Stevens Anchorage International,Anchorage,AK,478,478,100244
+1,2019,69,SDF,Louisville International-Standiford Field,Louisville,KY,380,380,98378
+1,2019,70,CHS,Charleston AFB/International,Charleston,SC,364,364,98261
+1,2019,71,GRR,Gerald R. Ford International,Grand Rapids,MI,375,375,96571
+1,2019,72,RNO,Reno/Tahoe International,Reno,NV,341,341,95822
+1,2019,73,TUS,Tucson International,Tucson,AZ,367,367,90817
+1,2019,74,OGG,Kahului Airport,Kahului,HI,302,302,88994
+1,2019,75,ELP,El Paso International,El Paso,TX,368,368,88196
+1,2019,76,ALB,Albany International,Albany,NY,374,374,84965
+1,2019,77,TUL,Tulsa International,Tulsa,OK,394,394,81766
+1,2019,78,DSM,Des Moines International,Des Moines,IA,376,376,79792
+1,2019,79,BHM,Birmingham-Shuttlesworth International,Birmingham,AL,444,444,79274
+1,2019,80,ROC,Greater Rochester International,Rochester,NY,353,353,75835
+1,2019,81,SYR,Syracuse Hancock International,Syracuse,NY,355,355,68766
+1,2019,82,GSP,Greenville-Spartanburg International,Greer,SC,407,407,60250
+1,2019,83,MSN,Dane County Regional-Truax Field,Madison,WI,438,438,58401
+1,2019,84,PWM,Portland International Jetport,Portland,ME,355,355,56324
+1,2019,85,LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,409,409,56280
+1,2019,86,MHT,Manchester-Boston Regional,Manchester,NH,373,373,55790
+1,2019,87,SAV,Savannah/Hilton Head International,Savannah,GA,393,393,54512
+1,2019,88,TYS,McGhee Tyson,Knoxville,TN,421,421,54348
+1,2019,89,SFB,Orlando Sanford International,Sanford,FL,120,120,52486
+1,2019,90,KOA,Ellison Onizuka Kona International at Keahole,Kona,HI,300,300,51259
+1,2019,91,ISP,Long Island MacArthur,Islip,NY,276,276,49738
+1,2019,92,LIH,Lihue Airport,Lihue,HI,263,263,49601
+1,2019,93,GSO,Piedmont Triad International,Greensboro/High Point,NC,418,418,49348
+1,2019,94,PNS,Pensacola International,Pensacola,FL,399,399,46976
+1,2019,95,HPN,Westchester County,White Plains,NY,411,411,46314
+1,2019,96,ICT,Wichita Dwight D Eisenhower National,Wichita,KS,388,388,46212
+1,2019,97,COS,City of Colorado Springs Municipal,Colorado Springs,CO,396,396,46126
+1,2019,98,PIE,St Pete Clearwater International,St. Petersburg,FL,126,126,45638
+1,2019,99,DAY,James M Cox/Dayton International,Dayton,OH,428,428,45552
+1,2019,100,FAT,Fresno Yosemite International,Fresno,CA,383,383,45507
+1,2019,101,XNA,Northwest Arkansas Regional,Fayetteville,AR,520,520,37586
+1,2019,102,AZA,Phoenix - Mesa Gateway,Phoenix,AZ,136,136,36328
+1,2019,103,BTV,Burlington International,Burlington,VT,396,396,35910
+1,2019,104,MDT,Harrisburg International,Harrisburg,PA,422,422,35814
+1,2019,105,LEX,Blue Grass,Lexington,KY,419,419,35526
+1,2019,106,PSP,Palm Springs International,Palm Springs,CA,337,337,35445
+1,2019,107,MYR,Myrtle Beach International,Myrtle Beach,SC,329,329,34384
+1,2019,108,CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,422,422,34268
+1,2019,109,MAF,Midland International Air and Space Port,Midland/Odessa,TX,483,483,33304
+1,2019,110,EUG,Mahlon Sweet Field,Eugene,OR,374,374,33200
+1,2019,111,PGD,Punta Gorda Airport,Punta Gorda,FL,140,140,30608
+1,2019,112,SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,387,387,30250
+1,2019,113,FSD,Joe Foss Field,Sioux Falls,SD,419,419,30130
+1,2019,114,CHA,Lovell Field,Chattanooga,TN,415,415,29517
+1,2019,115,HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,540,540,29475
+1,2019,116,CAE,Columbia Metropolitan,Columbia,SC,460,460,28845
+1,2019,117,AVL,Asheville Regional,Asheville,NC,301,301,28593
+1,2019,118,MFR,Rogue Valley International - Medford,Medford,OR,361,361,28584
+1,2019,119,SGF,Springfield-Branson National,Springfield,MO,436,436,28059
+1,2019,120,BZN,Bozeman Yellowstone International,Bozeman,MT,441,441,27420
+1,2019,121,BLI,Bellingham International,Bellingham,WA,261,261,26849
+1,2019,122,ILM,Wilmington International,Wilmington,NC,423,423,26446
+1,2019,123,ITO,Hilo International,Hilo,HI,238,238,26374
+1,2019,124,LBB,Lubbock Preston Smith International,Lubbock,TX,405,405,25757
+1,2019,125,CAK,Akron-Canton Regional,Akron,OH,346,346,25642
+1,2019,126,VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,427,427,25427
+1,2019,127,FAI,Fairbanks International,Fairbanks,AK,430,430,25162
+1,2019,128,JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,490,490,24925
+1,2019,129,ACY,Atlantic City International,Atlantic City,NJ,111,111,24834
+1,2019,130,TTN,Trenton Mercer,Trenton,NJ,116,116,24821
+1,2019,131,ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,301,301,24649
+1,2019,132,FAR,Hector International,Fargo,ND,460,460,23910
+1,2019,133,PSC,Tri Cities,Pasco/Kennewick/Richland,WA,378,378,23477
+1,2019,134,FWA,Fort Wayne International,Fort Wayne,IN,427,427,23402
+1,2019,135,RDM,Roberts Field,Bend/Redmond,OR,383,383,23156
+1,2019,136,BIL,Billings Logan International,Billings,MT,428,428,22841
+1,2019,137,FNT,Bishop International,Flint,MI,342,342,22594
+1,2019,138,SBN,South Bend International,South Bend,IN,371,371,22435
+1,2019,139,MSO,Missoula International,Missoula,MT,387,387,22234
+1,2019,140,MLI,Quad City International,Moline,IL,394,394,21991
+1,2019,141,PIA,General Downing - Peoria International,Peoria,IL,343,343,21535
+1,2019,142,BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,483,483,20811
+1,2019,143,CHO,Charlottesville Albemarle,Charlottesville,VA,414,414,20290
+1,2019,144,SBA,Santa Barbara Municipal,Santa Barbara,CA,466,466,20269
+1,2019,145,MFE,McAllen Miller International,Mission/McAllen/Edinburg,TX,463,463,20112
+1,2019,146,ECP,Northwest Florida Beaches International,Panama City,FL,389,389,19646
+1,2019,147,TLH,Tallahassee International,Tallahassee,FL,501,501,19564
+1,2019,148,ATW,Appleton International,Appleton,WI,423,423,19400
+1,2019,149,AMA,Rick Husband Amarillo International,Amarillo,TX,417,417,18889
+1,2019,150,DAB,Daytona Beach International,Daytona Beach,FL,402,402,18850
+1,2019,151,AGS,Augusta Regional at Bush Field,Augusta,GA,425,425,17664
+1,2019,152,CRP,Corpus Christi International,Corpus Christi,TX,459,459,17556
+1,2019,153,BQN,Rafael Hernandez,Aguadilla,PR,192,192,17058
+1,2019,154,BIS,Bismarck Municipal,Bismarck/Mandan,ND,404,404,16994
+1,2019,155,ROA,Roanoke Blacksburg Regional Woodrum Field,Roanoke,VA,454,454,16667
+1,2019,156,BGR,Bangor International,Bangor,ME,386,386,16228
+1,2019,157,AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,390,390,16223
+1,2019,158,GRB,Green Bay Austin Straubel International,Green Bay,WI,540,540,15913
+1,2019,159,SHV,Shreveport Regional,Shreveport,LA,497,497,15736
+1,2019,160,HRL,Valley International,Harlingen/San Benito,TX,362,362,15408
+1,2019,161,STT,Cyril E King,Charlotte Amalie,VI,345,345,14508
+1,2019,162,GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,443,443,14322
+1,2019,163,FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,445,445,13942
+1,2019,164,GNV,Gainesville Regional,Gainesville,FL,433,433,13909
+1,2019,165,RAP,Rapid City Regional,Rapid City,SD,431,431,13759
+1,2019,166,MOB,Mobile Regional,Mobile,AL,496,496,13758
+1,2019,167,SBP,San Luis County Regional,San Luis Obispo,CA,466,466,13459
+1,2019,168,FCA,Glacier Park International,Kalispell,MT,452,452,13405
+1,2019,169,JNU,Juneau International,Juneau,AK,447,447,13201
+1,2019,170,MLB,Melbourne International,Melbourne,FL,415,415,12533
+1,2019,171,LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,493,493,12248
+1,2019,172,EVV,Evansville Regional,Evansville,IN,450,450,12220
+1,2019,173,SWF,Stewart International,Newburgh/Poughkeepsie,NY,287,287,12171
+1,2019,174,BLV,Scott AFB/MidAmerica,Belleville,IL,163,163,12079
+1,2019,175,PHF,Newport News/Williamsburg International,Newport News/Williamsburg,VA,463,463,11967
+1,2019,176,STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,302,302,11886
+1,2019,177,GJT,Grand Junction Regional,Grand Junction,CO,478,478,11726
+1,2019,178,LCK,Rickenbacker International,Columbus,OH,166,166,11570
+1,2019,179,BMI,Central Illinois Regional,Bloomington/Normal,IL,368,368,11382
+1,2019,180,TVC,Cherry Capital,Traverse City,MI,575,575,11296
+1,2019,181,TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,518,518,11104
+1,2019,182,CRW,Yeager,Charleston/Dunbar,WV,516,516,10870
+1,2019,183,EYW,Key West International,Key West,FL,458,458,10768
+1,2019,184,GTF,Great Falls International,Great Falls,MT,388,388,10404
+1,2019,185,OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,407,407,9595
+1,2019,186,MOT,Minot International,Minot,ND,408,408,9582
+1,2019,187,MRY,Monterey Regional,Monterey,CA,384,384,9518
+1,2019,188,USA,Concord Padgett Regional,CONCORD,NC,130,130,9516
+1,2019,189,PBG,Plattsburgh International,Plattsburgh,NY,205,205,9342
+1,2019,190,JAC,Jackson Hole,Jackson,WY,588,588,8929
+1,2019,191,DRO,Durango La Plata County,Durango,CO,569,569,8843
+1,2019,192,RST,Rochester International,Rochester,MN,406,406,8842
+1,2019,193,LAN,Capital Region International,Lansing,MI,438,438,8718
+1,2019,194,GRK,Robert Gray AAF,Killeen,TX,411,411,8489
+1,2019,195,ELM,Elmira/Corning Regional,Elmira/Corning,NY,391,391,8330
+1,2019,196,MGM,Montgomery Regional,Montgomery,AL,520,520,8261
+1,2019,197,RFD,Chicago/Rockford International,Rockford,IL,218,218,8168
+1,2019,198,STX,Henry E. Rohlsen,Christiansted,VI,429,429,8147
+1,2019,199,TOL,Toledo Express,Toledo,OH,273,273,8116
+1,2019,200,AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,498,498,8021
+1,2019,201,IDA,Idaho Falls Regional,Idaho Falls,ID,496,496,7918
+1,2019,202,IAG,Niagara Falls International,Niagara Falls,NY,183,183,7850
+1,2019,203,ASE,Aspen Pitkin County Sardy Field,Aspen,CO,582,582,7832
+1,2019,204,SCK,Stockton Metropolitan,Stockton,CA,128,128,7364
+1,2019,205,LBE,Arnold Palmer Regional,Latrobe,PA,114,114,7348
+1,2019,206,DLH,Duluth International,Duluth,MN,489,489,7340
+1,2019,207,HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,290,290,7179
+1,2019,208,MBS,MBS International,Saginaw/Bay City/Midland,MI,537,537,7059
+1,2019,209,SGU,St George Regional,St. George,UT,352,352,7021
+1,2019,210,SCE,University Park,State College,PA,484,484,6952
+1,2019,211,GFK,Grand Forks International,Grand Forks,ND,448,448,6902
+1,2019,212,COU,Columbia Regional,Columbia,MO,468,468,6731
+1,2019,213,CWA,Central Wisconsin,Mosinee,WI,511,511,6713
+1,2019,214,EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,414,414,6693
+1,2019,215,HLN,Helena Regional,Helena,MT,483,483,6520
+1,2019,216,BFL,Meadows Field,Bakersfield,CA,511,511,6494
+1,2019,217,LNK,Lincoln Airport,Lincoln,NE,460,460,6386
+1,2019,218,CMI,University of Illinois/Willard,Champaign/Urbana,IL,541,541,6352
+1,2019,219,LSE,La Crosse Regional,La Crosse,WI,502,502,5978
+1,2019,220,AEX,Alexandria International,Alexandria,LA,522,522,5930
+1,2019,221,PSE,Mercedita,Ponce,PR,231,231,5747
+1,2019,222,MLU,Monroe Regional,Monroe,LA,498,498,5605
+1,2019,223,ITH,Ithaca Tompkins Regional,Ithaca/Cortland,NY,449,449,5450
+1,2019,224,LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,453,453,5331
+1,2019,225,KTN,Ketchikan International,Ketchikan,AK,499,499,5258
+1,2019,226,ERI,Erie International/Tom Ridge Field,Erie,PA,388,388,5007
+1,2019,227,CPR,Casper/Natrona County International,Casper,WY,539,539,4961
+1,2019,228,ORH,Worcester Regional,Worcester,MA,316,316,4960
+1,2019,229,LRD,Laredo International,Laredo,TX,443,443,4903
+1,2019,230,BRO,Brownsville South Padre Island International,Brownsville,TX,446,446,4901
+1,2019,231,SPI,Abraham Lincoln Capital,Springfield,IL,364,364,4890
+1,2019,232,FSM,Fort Smith Regional,Fort Smith,AR,560,560,4685
+1,2019,233,PVU,Provo Municipal,Provo,UT,118,118,4636
+1,2019,234,ABI,Abilene Regional,Abilene,TX,515,515,4615
+1,2019,235,SAF,Santa Fe Municipal,Santa Fe,NM,428,428,4527
+1,2019,236,MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,508,508,4453
+1,2019,237,GRI,Central Nebraska Regional,Grand Island,NE,294,294,4396
+1,2019,238,GUM,Guam International,Guam,TT,1129,1129,4381
+1,2019,239,YUM,Yuma MCAS/Yuma International,Yuma,AZ,495,495,4349
+1,2019,240,ISN,Sloulin Field International,Williston,ND,636,636,4272
+1,2019,241,BET,Bethel Airport,Bethel,AK,364,364,4180
+1,2019,242,CLL,Easterwood Field,College Station/Bryan,TX,479,479,4114
+1,2019,243,YKM,Yakima Air Terminal/McAllister Field,Yakima,WA,405,405,4007
+1,2019,244,SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,466,466,3971
+1,2019,245,MTJ,Montrose Regional,Montrose/Delta,CO,511,511,3937
+1,2019,246,SBY,Salisbury-Ocean City/Wicomico Regional,Salisbury,MD,469,469,3927
+1,2019,247,ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,555,555,3767
+1,2019,248,PUW,Pullman Moscow Regional,Pullman,WA,404,404,3703
+1,2019,249,EAT,Pangborn Memorial,Wenatchee,WA,397,397,3697
+1,2019,250,FLG,Flagstaff Pulliam,Flagstaff,AZ,421,421,3588
+1,2019,251,LWS,Lewiston Nez Perce County,Lewiston,ID,603,603,3582
+1,2019,252,LCH,Lake Charles Regional,Lake Charles,LA,553,553,3414
+1,2019,253,SIT,Sitka Rocky Gutierrez,Sitka,AK,447,447,3389
+1,2019,254,EGE,Eagle County Regional,Eagle,CO,623,623,3351
+1,2019,255,PIH,Pocatello Regional,Pocatello,ID,610,610,3306
+1,2019,256,ACT,Waco Regional,Waco,TX,545,545,3296
+1,2019,257,PSM,Portsmouth International at Pease,Portsmouth,NH,190,190,3292
+1,2019,258,PGV,Pitt Greenville,Greenville,NC,403,403,3262
+1,2019,259,ROW,Roswell International Air Center,Roswell,NM,471,471,3160
+1,2019,260,SJT,San Angelo Regional/Mathis Field,San Angelo,TX,516,516,3122
+1,2019,261,TYR,Tyler Pounds Regional,Tyler,TX,560,560,3090
+1,2019,262,TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,607,607,2873
+1,2019,263,MQT,Sawyer International,Marquette,MI,520,520,2839
+1,2019,264,ALW,Walla Walla Regional,Walla Walla,WA,391,391,2812
+1,2019,265,FLO,Florence Regional,Florence,SC,385,385,2787
+1,2019,266,ACK,Nantucket Memorial,Nantucket,MA,595,595,2767
+1,2019,267,VLD,Valdosta Regional,Valdosta,GA,597,597,2732
+1,2019,268,DHN,Dothan Regional,Dothan,AL,623,623,2694
+1,2019,269,ADQ,Kodiak Airport,Kodiak,AK,510,510,2645
+1,2019,270,SUX,Sioux Gateway/Col. Bud Day Field,Sioux City,IA,436,436,2632
+1,2019,271,SCC,Deadhorse Airport,Deadhorse,AK,387,387,2605
+1,2019,272,LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,464,464,2600
+1,2019,273,RDD,Redding Municipal,Redding,CA,460,460,2511
+1,2019,274,SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,446,446,2437
+1,2019,275,CKB,North Central West Virginia,Clarksburg/Fairmont,WV,233,233,2418
+1,2019,276,JLN,Joplin Regional,Joplin,MO,496,496,2385
+1,2019,277,BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,505,505,2363
+1,2019,278,GTR,Golden Triangle Regional,Columbus,MS,622,622,2359
+1,2019,279,TXK,Texarkana Regional-Webb Field,Texarkana,AR,490,490,2313
+1,2019,280,DBQ,Dubuque Regional,Dubuque,IA,508,508,2294
+1,2019,281,HVN,Tweed New Haven,New Haven,CT,344,344,2293
+1,2019,282,CSG,Columbus Airport,Columbus,GA,528,528,2251
+1,2019,283,ABY,Southwest Georgia Regional,Albany,GA,563,563,2130
+1,2019,284,OME,Nome Airport,Nome,AK,535,535,2003
+1,2019,285,OTZ,Ralph Wien Memorial,Kotzebue,AK,417,417,2001
+1,2019,286,BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,482,482,1907
+1,2019,286,COD,Yellowstone Regional,Cody,WY,575,575,1907
+1,2019,288,BJI,Bemidji Regional,Bemidji,MN,554,554,1863
+1,2019,289,HDN,Yampa Valley,Hayden,CO,449,449,1840
+1,2019,290,PPG,Pago Pago International,Pago Pago,TT,1114,1114,1811
+1,2019,291,ABR,Aberdeen Regional,Aberdeen,SD,594,594,1778
+1,2019,292,BQK,Brunswick Golden Isles,Brunswick,GA,520,520,1741
+1,2019,293,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,118,118,1732
+1,2019,294,SWO,Stillwater Regional,Stillwater,OK,439,439,1718
+1,2019,295,BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,471,471,1678
+1,2019,296,STC,St. Cloud Regional,St. Cloud,MN,239,239,1662
+1,2019,297,BTM,Bert Mooney,Butte,MT,533,533,1584
+1,2019,298,ART,Watertown International,Watertown,NY,455,455,1578
+1,2019,299,HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,151,151,1563
+1,2019,300,OGS,Ogdensburg International,Ogdensburg,NY,198,198,1550
+1,2019,301,GGG,East Texas Regional,Longview,TX,476,476,1526
+1,2019,302,GCC,Gillette Campbell County,Gillette,WY,608,608,1512
+1,2019,303,GCK,Garden City Regional,Garden City,KS,459,459,1500
+1,2019,304,MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,574,574,1497
+1,2019,305,CIU,Chippewa County International,Sault Ste. Marie,MI,558,558,1494
+1,2019,306,SPN,Francisco C. Ada Saipan International,Saipan,TT,412,412,1486
+1,2019,307,RHI,Rhinelander/Oneida County,Rhinelander,WI,540,540,1470
+1,2019,308,RKS,Southwest Wyoming Regional,Rock Springs,WY,447,447,1441
+1,2019,309,BRD,Brainerd Lakes Regional,Brainerd,MN,580,580,1434
+1,2019,310,IPT,Williamsport Regional,Williamsport,PA,417,417,1427
+1,2019,311,EAU,Chippewa Valley Regional,Eau Claire,WI,468,468,1382
+1,2019,312,HOB,Lea County Regional,Hobbs,NM,497,497,1375
+1,2019,313,ALO,Waterloo Regional,Waterloo,IA,483,483,1334
+1,2019,314,MEI,Key Field,Meridian,MS,504,504,1326
+1,2019,315,PAH,Barkley Regional,Paducah,KY,465,465,1321
+1,2019,316,PLN,Pellston Regional Airport of Emmet County,Pellston,MI,591,591,1318
+1,2019,317,DUT,Unalaska Airport,Unalaska,AK,1036,1036,1257
+1,2019,318,CMX,Houghton County Memorial,Hancock/Houghton,MI,581,581,1199
+1,2019,319,IMT,Ford,Iron Mountain/Kingsfd,MI,438,438,1175
+1,2019,320,OWB,Owensboro Daviess County Regional,Owensboro,KY,129,129,1167
+1,2019,321,HHH,Hilton Head Airport,Hilton Head,SC,399,399,1156
+1,2019,322,MKG,Muskegon County,Muskegon,MI,420,420,1130
+1,2019,323,EKO,Elko Regional,Elko,NV,607,607,1114
+1,2019,324,LAR,Laramie Regional,Laramie,WY,463,463,1068
+1,2019,325,DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,588,588,1058
+1,2019,326,ESC,Delta County,Escanaba,MI,477,477,1031
+1,2019,327,PSG,Petersburg James A Johnson,Petersburg,AK,445,445,1021
+1,2019,328,HIB,Range Regional,Hibbing,MN,543,543,1014
+1,2019,329,OGD,Ogden-Hinckley,Ogden,UT,118,118,987
+1,2019,330,CDC,Cedar City Regional,Cedar City,UT,324,324,985
+1,2019,331,BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,378,378,916
+1,2019,332,LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,416,416,860
+1,2019,333,MMH,Mammoth Lakes Airport,Mammoth Lakes,CA,363,363,794
+1,2019,334,SHD,Shenandoah Valley Regional,Staunton,VA,375,375,783
+1,2019,335,CDV,Merle K Mudhole Smith,Cordova,AK,378,378,776
+1,2019,336,HYS,Hays Regional,Hays,KS,440,440,763
+1,2019,337,GUC,Gunnison-Crested Butte Regional,Gunnison,CO,523,523,742
+1,2019,338,SLN,Salina Regional,Salina,KS,329,329,735
+1,2019,339,JMS,Jamestown Regional,Jamestown,ND,458,458,724
+1,2019,340,WRG,Wrangell Airport,Wrangell,AK,420,420,674
+1,2019,341,CGI,Cape Girardeau Regional,Cape Girardeau,MO,301,301,661
+1,2019,342,AKN,King Salmon Airport,King Salmon,AK,790,790,653
+1,2019,343,UIN,Quincy Regional-Baldwin Field,Quincy,IL,307,307,627
+1,2019,344,APN,Alpena County Regional,Alpena,MI,489,489,623
+1,2019,345,PUB,Pueblo Memorial,Pueblo,CO,455,455,614
+1,2019,346,INL,Falls International Einarson Field,International Falls,MN,549,549,583
+1,2019,347,PRC,Ernest A. Love Field,Prescott,AZ,274,274,567
+1,2019,348,PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,470,470,516
+1,2019,349,VEL,Vernal Regional,Vernal,UT,358,358,475
+1,2019,350,TBN,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,MO,373,373,462
+1,2019,351,CNY,Canyonlands Field,Moab,UT,279,279,436
+1,2019,351,DLG,Dillingham Airport,Dillingham,AK,949,949,436
+1,2019,353,DVL,Devils Lake Regional,Devils Lake,ND,577,577,426
+1,2019,354,MKK,Molokai,Hoolehua,HI,230,230,395
+1,2019,355,ENA,Kenai Municipal,Kenai,AK,592,592,385
+1,2019,356,HYA,Barnstable Municipal-Boardman/Polando Field,Hyannis,MA,295,295,383
+1,2019,357,OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,477,477,368
+1,2019,358,PQI,Northern Maine Regional at Presque Isle,Presque Isle/Houlton,ME,486,486,364
+1,2019,359,YAK,Yakutat Airport,Yakutat,AK,409,409,363
+1,2019,360,LWB,Greenbrier Valley,Lewisburg,WV,406,406,337
+1,2019,361,LBL,Liberal Mid-America Regional,Liberal,KS,273,273,331
+1,2019,362,EAR,Kearney Regional,Kearney,NE,463,463,292
+1,2019,363,LNY,Lanai Airport,Lanai,HI,368,368,261
+1,2019,364,HOM,Homer Airport,Homer,AK,651,651,234
+1,2019,364,LEB,Lebanon Municipal,Lebanon-Hanover,NH,360,360,234
+1,2019,366,MWA,Veterans Airport of Southern Illinois,Marion/Herrin,IL,478,478,228
+1,2019,367,JHM,Kapalua Airport,Kapalua,HI,347,347,211
+1,2019,368,AUG,Augusta State,Augusta/Waterville,ME,333,333,183
+1,2019,369,DRT,Del Rio International,Del Rio,TX,411,411,168
+1,2019,370,RUT,Rutland - Southern Vermont Regional,Rutland,VT,356,356,144
+1,2019,371,PVC,Provincetown Municipal,Provincetown,MA,544,544,139
+1,2019,372,RKD,Knox County Regional,Rockland,ME,431,431,129
+1,2019,373,BHB,Hancock County-Bar Harbor,Bar Harbor,ME,480,480,117
+1,2019,374,ALS,San Luis Valley Regional/Bergman Field,Alamosa,CO,492,492,116
+1,2019,375,CDB,Cold Bay Airport,Cold Bay,AK,902,902,114
+1,2019,376,SLK,Adirondack Regional,Saranac Lake/Lake Placid,NY,334,334,109
+1,2019,377,CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,292,292,108
+1,2019,378,IRK,Kirksville Regional,Kirksville,MO,402,402,101
+1,2019,379,DEC,Decatur Airport,Decatur,IL,378,378,99
+1,2019,380,ADK,Adak,Adak Island,AK,1009,1009,92
+1,2019,380,DDC,Dodge City Regional,Dodge City,KS,471,471,92
+1,2019,382,VDZ,Valdez Pioneer Field,Valdez,AK,524,524,81
+1,2019,383,SDY,Sidney Richland Regional,Sidney,MT,491,491,77
+1,2019,384,MAZ,Eugenio Maria de Hostos,Mayaguez,PR,409,409,68
+1,2019,384,SDP,Sand Point,Sandpoint,AK,942,942,68
+1,2019,386,CEZ,Cortez Municipal,Cortez,CO,566,566,57
+1,2019,387,IPL,Imperial County,El Centro,CA,303,303,37
+1,2019,388,MCK,McCook Ben Nelson Regional,McCook,NE,495,495,35
+1,2019,389,VQS,Antonio Rivera Rodriguez,Vieques,PR,524,524,34
+1,2019,389,PDT,Eastern Oregon Regional at Pendleton,Pendleton,OR,436,436,34
+1,2019,391,CDR,Chadron Municipal,Chadron,NE,518,518,32
+1,2019,392,TEX,Telluride Regional,Telluride,CO,896,896,30
+1,2019,393,GGW,Wokal Field/Glasgow International,Glasgow,MT,911,911,27
+1,2019,394,MSS,Massena International-Richards Field,Massena,NY,442,442,24
+1,2019,394,TVF,Thief River Falls Regional,Thief River Falls,MN,377,377,24
+1,2019,396,CNM,Cavern City Air Terminal,Carlsbad,NM,652,652,20
+1,2019,397,GDV,Dawson Community,Glendive,MT,331,331,18
+1,2019,398,OLF,L. M. Clayton,Wolf Point,MT,694,694,16
+1,2019,399,MSL,Northwest Alabama Regional,Muscle Shoals,AL,301,301,15
+1,2019,399,AOO,Altoona-Blair County,Altoona,PA,463,463,15
+1,2019,401,DUJ,DuBois Regional,DuBois,PA,375,375,14
+1,2019,401,AIA,Alliance Municipal,Alliance,NE,493,493,14
+1,2019,403,MGW,Morgantown Municipal-Walter L. Bill Hart Field,Morgantown,WV,332,332,13
+1,2019,403,HVR,Havre City-County,Havre,MT,286,286,13
+1,2019,405,SOW,Show Low Regional,Show Low,AZ,807,807,9
+1,2019,405,CVN,Clovis Municipal,Clovis,NM,625,625,9
+1,2019,407,JST,John Murtha Johnstown-Cambria County,Johnstown,PA,583,583,8
+1,2019,408,BFD,Bradford Regional,Bradford,PA,489,489,7
+1,2019,408,MCE,Merced Regional/Macready Field,Merced,CA,817,817,7
+1,2019,410,VCT,Victoria Regional,Victoria,TX,483,483,6
+1,2019,411,LNS,Lancaster Airport,Lancaster,PA,381,381,5
+1,2019,412,SHH,Shishmaref Airport,Shishmaref,AK,904,904,4
+1,2019,413,CPX,Benjamin Rivera Noriega,Culebra,PR,439,439,3
+1,2019,413,FKL,Venango Regional,Franklin/Oil City,PA,332,332,3
+1,2019,415,WMO,White Mountain Airport,White Mountain,AK,335,335,2
+1,2019,416,HNM,Hana Airport,Hana,HI,270,270,0
+1,2019,416,PAE,Snohomish County,Everett,WA,173,173,0
